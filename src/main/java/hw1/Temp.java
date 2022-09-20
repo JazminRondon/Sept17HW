@@ -1,8 +1,8 @@
-package Tempature;
+package hw1;
 
 import java.util.Scanner;
 
-public class HW1 {
+public class Temp {
 
     public static void main(String[] args) {
         Scanner userInput = new Scanner(System.in);
